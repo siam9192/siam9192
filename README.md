@@ -31,6 +31,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
+##  Latest Projects
+### 1.DevCraft (employee-management)
+  <a href = 'https://empolyee-managemant.web.app/'>DevCraft Live Link</a>
+
+### Features:
+- The website has 3 roles (employee,hr,admin).
+- Admin have all the Power.He can do anything
+- but the hr and employee have some specific power
+- employee can submit hist worksheet and can see his salary history.
+- hr can  control employee verification  and pay the salary of the employees
+- admin can fire employees and hr .and he can do all of this which hr can do
+- If admin fired a employee after fired he can't log in website with account
+- signup ,login system are available
+- user can log out his account from website
+- Fired employee can't be login in the website
+  ### 2.Grand Luminary (employee-management)
+  <a href = 'https://grand-luminary.web.app/'>GrandLuminary Live Link</a>
+
+### Features:
+-  User can create his account in the website and login his created account in the website  
+- User can book boom from this website
+- User can book only available rooms
+- user can not be able to book room with out login in the website
+- user can be update and cancel his booking date
+- user can see all of his booking history in the my booking page
+
+
 
 
 ## 📊 GitHub analaysis:
