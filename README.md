@@ -31,6 +31,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
+##Contact with me
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/arafat.hasan.3998263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arafat hasan siam" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arafat.hasan.3998263/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siam986" height="30" width="40" /></a>
+</p>
+
 ##  Latest Projects
 ### 1.DevCraft (employee-management)
   <a href = 'https://empolyee-managemant.web.app/'>DevCraft Live Link</a>
@@ -68,9 +77,6 @@
 - After login user can visited website private route pages (service details,Planners,Blogs)+
 - User can see all of services that we provide
 
-
-
-## 📊 GitHub analaysis:
 
 
 
