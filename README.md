@@ -46,7 +46,7 @@
 - signup ,login system are available
 - user can log out his account from website
 - Fired employee can't be login in the website
-  ### 2.Grand Luminary (employee-management)
+### 2.Grand Luminary (employee-management)
   <a href = 'https://grand-luminary.web.app/'>GrandLuminary Live Link</a>
 
 ### Features:
@@ -57,6 +57,20 @@
 - user can be update and cancel his booking date
 - user can see all of his booking history in the my booking page
 
+### 3.WeddigCrafter (event-management)
+  <a href = 'https://weeding-crafter.web.app/'>WeddingCrafter Live Link</a>
+
+### Features:
+- User can create his account from Sign up page  and login his created account  from login page .
+- User can show service details on clicking show details button.
+- If user account is not login in the website user can not be able to  show service details.
+- if user going to visit website private routes with out login on the website the website redirect him to the login page.
+- After login user can visited website private route pages (service details,Planners,Blogs)+
+- User can see all of services that we provide
+
+
+
+## 📊 GitHub analaysis:
 
 
 
