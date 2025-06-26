@@ -5,9 +5,7 @@
  
  💡 I like to explore new technologies and develop somthing new. 
 
- 🎓  I'm currently studying Computer Science and Tecnology at habiganj polytecnic institute.
-
- 📚 I'm currently learning ...Next js
+ 🎓  I'm currently studying Computer Science and Tecnology at mymensing polytecnic institute.
 
  ✍️  In my free time, I like to read blogs about technology.
    
@@ -41,41 +39,49 @@
 </p>
 
 ##  Latest Projects
-### 1.DevCraft (employee-management)
-  <a href = 'https://empolyee-managemant.web.app/'>DevCraft Live Link</a>
+### 1.GadetGalaxy(ecommerce)
+  <a href = 'https://github.com/siam9192/GadgetGalaxy'>GadgetGalaxy Code Link</a>
 
 ### Features:
-- The website has 3 roles (employee,hr,admin).
-- Admin have all the Power.He can do anything
-- but the hr and employee have some specific power
-- employee can submit hist worksheet and can see his salary history.
-- hr can  control employee verification  and pay the salary of the employees
-- admin can fire employees and hr .and he can do all of this which hr can do
-- If admin fired a employee after fired he can't log in website with account
-- signup ,login system are available
-- user can log out his account from website
-- Fired employee can't be login in the website
-### 2.Grand Luminary (employee-management)
-  <a href = 'https://grand-luminary.web.app/'>GrandLuminary Live Link</a>
+- Browse and filter products by categories and brands
+- View detailed product information, specifications, and images
+- Manage shopping cart and place orders
+- Secure checkout using Stripe or SSLCommerze
+- User authentication, profile management, and order history
+
+  
+### 2.DonorHive (donation-campaign)
+  <a href = 'https://github.com/siam9192/DonorHive'>DonorHive Code Link</a>
 
 ### Features:
--  User can create his account in the website and login his created account in the website  
-- User can book boom from this website
-- User can book only available rooms
-- user can not be able to book room with out login in the website
-- user can be update and cancel his booking date
-- user can see all of his booking history in the my booking page
+- Launch and manage donation campaigns
+- Accept contributions securely
+- Track fundraising progress
+- Raise awareness through stories, images, and progress updates
+- 
+### 3.MPI Library (employee-management)
+  <a href = 'https://github.com/siam9192/MPI-library-manaagement-system-backend'>MPI Library Code Link</a>
 
-### 3.WeddigCrafter (event-management)
-  <a href = 'https://weeding-crafter.web.app/'>WeddingCrafter Live Link</a>
+### 🚀 Features
 
-### Features:
-- User can create his account from Sign up page  and login his created account  from login page .
-- User can show service details on clicking show details button.
-- If user account is not login in the website user can not be able to  show service details.
-- if user going to visit website private routes with out login on the website the website redirect him to the login page.
-- After login user can visited website private route pages (service details,Planners,Blogs)+
-- User can see all of services that we provide
+- The system defines four distinct user roles: **Student**, **Librarian**, **Admin**, and **SuperAdmin** — each with different levels of access and responsibilities within the library system.
+- The system uses fully custom authentication implemented with **JWT (JSON Web Tokens)** to securely manage user sessions and protect routes based on roles.
+- Handle student registration requests and manage library memberships for students and staff. Keep track of members' borrowing activities efficiently.
+- Add, update, and delete book records with complete details including title, author, category, and available copies.
+- Students can follow/unfollow authors. They'll receive notifications when a new book from their followed author arrives in the library.
+- Sudents can request to borrow books or reserve them until an expiration date if currently unavailable.
+- Upon successful reservation, students receive a unique ticket to verify their identity when collecting the book.
+- Monitor book lending activities — who borrowed what, due dates, return status, and check if borrowing limits are met.
+- Automatically calculate fines for overdue, lost, or damaged books. Librarians or admins have the ability to waive fines when necessary.
+- Students can view their complete borrowing history, including past borrowed books, return dates, and penalties (if any).
+- Penalties are issued for improper behavior such as canceling reservations frequently, failing to pick up reserved books, late returns, damaging or losing books, or not paying fines. These penalties may affect borrowing privileges.
+- Notify students about due dates, reservations, fines, and other events via logs, UI messages, or email (based on the system’s integration).
+- Students can reach out for help or raise queries via the support system.
+- System behavior can be customized, including settings such as application name, system open/close status, expiration dates, and other configurable options.
+- Includes email verification via OTP, password reset using an email link, change password functionality, and user profile updates.
+- Generate insightful reports on monthly library usage, fine collections, and book inventory status.
+
+
 
 
 
