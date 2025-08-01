@@ -1,6 +1,14 @@
 ![logo](https://github.com/siam9192/Arafat-hasan/blob/main/IMG_20231209_015314.png)
 <h2>Hi 👋, I'm Arafat</h2>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+A passionate Full Stack Web Developer on a mission to craft seamless, intuitive, and impactful digital experiences.
+With a strong foundation in both frontend and backend technologies, I enjoy building everything from responsive web interfaces to robust server-side applications. I thrive on turning ideas into real-world products using modern frameworks and clean, maintainable code.
+
+💻 On the frontend, I specialize in technologies like React, Next.js, Tailwind CSS, and Material UI, focusing on building fast, accessible, and responsive user interfaces.
+
+🛠️ On the backend, I work with tools such as Node.js, Express, MongoDB, and PostgreSQL, and I’m continuously exploring technologies like GraphQL, Prisma, and Docker to expand my capabilities.
+
+🎯 I’m driven by curiosity and a problem-solving mindset, always aiming to improve performance, enhance user experience, and follow best development practices.
 <h2>👨🏻‍💻  About Me </h2> 
  
  💡 I like to explore new technologies and develop somthing new. 
